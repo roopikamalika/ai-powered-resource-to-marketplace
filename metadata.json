@@ -1,0 +1,6 @@
+{
+  "name": "EcoExchange AI",
+  "description": "An AI-powered Waste-to-Resource Marketplace that connects industrial waste producers, recyclers, and buyers to enable circular economy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
